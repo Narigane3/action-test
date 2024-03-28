@@ -1,0 +1,57 @@
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --success-color: #28a745;
+    --info-color: #17a2b8;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    /* Hover Color */
+    --primary-hover-color: rgba(0, 123, 255, 0.8);
+    --secondary-hover-color: rgba(108, 117, 125, 0.8);
+    --success-hover-color: rgba(40, 167, 69, 0.8);
+    --info-hover-color: rgba(23, 162, 184, 0.8);
+    --warning-hover-color: rgba(255, 193, 7, 0.8);
+    --danger-hover-color: rgba(220, 53, 69, 0.8);
+    
+    /* Text Color */
+    --text-color: #212529;
+    --text-light-color: #f8f9fa;
+    --text-light-hover-color: rgba(141, 163, 214, 0.7);
+    --text-muted-color: #6c757d;
+    --text-white-color: #fff;
+    --text-black-color: #000;
+    /* Background Color */
+    --bg-light : #f8f9fa;
+    --bg-dark : #343a40;
+    --bg-gray : #b1b7bd;
+    /* Font Size */
+    --font-size-1: 1rem;
+    --font-size-2: 1.25rem;
+    --font-size-3: 1.5rem;
+    --font-size-4: 1.75rem;
+    --font-size-5: 2rem;
+    --font-size-6: 2.5rem;
+    --font-size-7: 3rem;
+    --font-size-8: 4rem;
+
+    /* Font Weight */
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-bold: 700;
+    
+    /* Line Height */
+    --line-height-1: 1;
+    --line-height-2: 1.25;
+    --line-height-3: 1.5;
+    --line-height-4: 1.75;
+    --line-height-5: 2;
+
+    /* Breakpoints */
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --breakpoint-xxl: 1400px;
+}
+

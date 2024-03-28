@@ -1,0 +1,19 @@
+@import './var.css';
+@import './partial/nav.css';
+@import './partial/footer.css';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    padding: 20px;
+}
+
+p{
+    font-size: var(--font-size-1);
+    line-height: var(--line-height-5)
+}
+
